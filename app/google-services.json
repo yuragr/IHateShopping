@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "337957565633",
+    "firebase_url": "https://i-hate-shopping-913ab.firebaseio.com",
+    "project_id": "i-hate-shopping-913ab",
+    "storage_bucket": "i-hate-shopping-913ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337957565633:android:09a2522b1a90b2f6",
+        "android_client_info": {
+          "package_name": "ihate.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337957565633-pefa84ocoektaa7v41206kigdil8mm8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ihate.shopping",
+            "certificate_hash": "73e3567f4e075f750822e863a83fd4fe458249cb"
+          }
+        },
+        {
+          "client_id": "337957565633-4iievog653hkamj4okjlc3c5foqd5jbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_38HAd71a3yeLdn1BAeOsGxcTEOt3zSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337957565633-4iievog653hkamj4okjlc3c5foqd5jbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
